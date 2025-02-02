@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I'm a  second-year Software Engineer with strong skills in data structures, backend services, and building scalable web applications. <br><br>I enjoy building practical tools that simplify everyday tasks, especially using Python. Whether it's PantryPal, my recipe generator with advanced filtering, or AoCode, my IDE for competitive programmers, I enjoy creating solutions that look simple yet have what users need and more. I'm always exploring new ways to expand my experience and strengths.</h6>
+<h6 align="left">I'm a  second-year Software Engineer with strong skills in data structures, backend services, and building scalable web applications. <br><br>I enjoy building practical tools that simplify everyday tasks, especially using Python. Whether it's PantryPal, my recipe generator with advanced filtering, or AoCode, my IDE for competitive programmers (Advent of Code in particular) like me, I enjoy brainstorming problems and cominug up with creative solutions that look simple yet have what users need and more. I'm always exploring new ways to expand my experience and strengths.</h6>
 
 ###
 
