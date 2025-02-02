@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CypherGuy.CypherGuy&"  />
+<h6 align="left">I'm a  second-year Software Engineer with strong skills in data structures, backend services, and building scalable web applications. <br><br>I enjoy building practical tools that simplify everyday tasks, especially using Python. Whether it's PantryPal, my recipe generator with advanced filtering, or AoCode, my IDE for competitive programmers, I enjoy creating solutions that look simple yet have what users need and more. I'm always exploring new ways to expand my experience and strengths.</h6>
 
 ###
 
-<h6 align="left">I'm a  second-year Software Engineer with strong skills in data structures, backend services, and building scalable web applications. <br><br>I enjoy building practical tools that simplify everyday tasks, especially using Python. Whether it's PantryPal, my recipe generator with advanced filtering, or AoCode, my IDE for competitive programmers, I enjoy creating solutions that look simple yet have what users need and more. I'm always exploring new ways to expand my experience and strengths.</h6>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CypherGuy.CypherGuy&"  />
 
 ###
 
@@ -47,6 +47,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CypherGuy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&custom_title=Here's%20What%20I%20Use%20Most" height="155" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">Contact me</h2>
 
 ###
 
